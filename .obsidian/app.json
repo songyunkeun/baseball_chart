@@ -1,3 +1,6 @@
 {
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "/assets/images",
+  "newLinkFormat": "absolute"
 }
