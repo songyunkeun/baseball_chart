@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "abbf02d1b390dbed",
+        "id": "b44f1359779c120a",
         "type": "tabs",
         "children": [
           {
-            "id": "6387ed56e9665c51",
+            "id": "07800951593a3e4c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/954093D3-2855-4B35-ABFF-9A3801550B81.png"
+                "file": "_posts/2026-07-03-welcome.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "954093D3-2855-4B35-ABFF-9A3801550B81"
+              "icon": "lucide-file",
+              "title": "2026-07-03-welcome.md"
             }
           }
         ]
@@ -180,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6387ed56e9665c51",
+  "active": "07800951593a3e4c",
   "lastOpenFiles": [
-    "_posts/2026-07-03-welcome.md.md",
     "assets/images/954093D3-2855-4B35-ABFF-9A3801550B81.png",
+    "_posts/2026-07-03-welcome.md.md",
     "assets/images/2026-07-03-welcome.md.png",
     "954093D3-2855-4B35-ABFF-9A3801550B81.png",
     "assets/images",

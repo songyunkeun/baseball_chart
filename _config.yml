@@ -1,7 +1,7 @@
 # Site settings
 title:          "Baseball Chart"
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        ""
+baseurl:        "/baseball_chart" # the subpath of your site
 url:            "https://chesterhow.github.io"
 
 # Google Analytics
