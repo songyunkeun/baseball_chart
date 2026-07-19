@@ -1,6 +1,6 @@
 # Site settings
 title:          "Blog"
-description:    "Minimal Jekyll theme for storytellers"
+description:    ""
 baseurl:        "/baseball_chart" # the subpath of your site
 url:            "https://chesterhow.github.io"
 
