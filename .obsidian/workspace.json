@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b44f1359779c120a",
+        "id": "c04bf68449220b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "07800951593a3e4c",
+            "id": "7be6e4432966c0a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,10 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07800951593a3e4c",
+  "active": "7be6e4432966c0a0",
   "lastOpenFiles": [
     "assets/images/954093D3-2855-4B35-ABFF-9A3801550B81.png",
     "_posts/2026-07-03-welcome.md.md",
+    "_pages/about.md",
+    "assets/apple-touch-icon.png",
     "assets/images/2026-07-03-welcome.md.png",
     "954093D3-2855-4B35-ABFF-9A3801550B81.png",
     "assets/images",
